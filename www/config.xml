@@ -6,7 +6,7 @@
         id        = "com.gabrielnava.phonegap"
         version   = "1.0.0">
 
-    <name>Phonegap Gab</name>
+    <name>PhoneGab</name>
 
     <description>
         Este es un ejercicio muestra para subir una aplicación con PhoneGap.
